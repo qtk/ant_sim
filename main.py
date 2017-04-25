@@ -12,6 +12,7 @@ dirs = {"NORTH": (0, -1),
         "WEST": (-1, 0)}
 
 
+
 class MovingPixel:
     """ A moving pixel class. """
 
